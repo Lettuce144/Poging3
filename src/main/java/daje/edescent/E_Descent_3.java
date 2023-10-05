@@ -7,6 +7,7 @@ public final class E_Descent_3 extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        getLogger().info("Hi daan");
 
     }
 
