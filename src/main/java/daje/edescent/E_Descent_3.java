@@ -9,7 +9,7 @@ public final class E_Descent_3 extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         getLogger().info("Hi daan");
-        getLogger().info("Hi daan");        getLogger().info("Hi daan");
+        getLogger().info("Hi jens");
         
 
 
